@@ -34,3 +34,5 @@ HAVE_SELINUX := true
 
 TW_BRIGHTNESS_PATH := /sys/class/backlight/430_540_960_amoled_bl/brightness
 
+TARGET_USERIMAGES_USE_F2FS := true
+
